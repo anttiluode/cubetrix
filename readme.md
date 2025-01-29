@@ -1,5 +1,7 @@
 # CubeTrix
 
+![Cubetrix](cubetrix.png)
+
 Imagine you woke up one day in a infinite world, larger than the known universe. Full of cubes. 
 
 ## Table of Contents
