@@ -1,0 +1,14 @@
+# Ursina Engine for game development
+ursina==4.0.2
+
+# Numerical computations and array handling
+numpy==1.24.3
+
+# Scientific computing library for image processing
+scipy==1.11.2
+
+# Text-to-Speech engine
+pyttsx3==2.90
+
+# Additional dependencies required by pyttsx3
+comtypes==1.1.11
