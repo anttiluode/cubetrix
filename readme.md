@@ -2,6 +2,11 @@
 
 ![Cubetrix](cubetrix.png)
 
+EDIT: I added cubetrixwithgemma.py 
+
+it has random lines from gemma llm and random field seed on the maps. At least should have. 
+It was coded by o3 mini high. 
+
 Imagine you woke up one day in a infinite world, larger than the known universe. Full of cubes. 
 
 ## Table of Contents
