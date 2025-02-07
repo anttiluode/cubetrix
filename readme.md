@@ -5,7 +5,8 @@
 EDIT: I added cubetrixwithgemma.py 
 
 it has random lines from gemma llm and random field seed on the maps. At least should have. 
-It was coded by o3 mini high. 
+It was coded by o3 mini high. There is webcam init as the idea was to have the webacm provide 
+texures for the sky or the boxes but that did not work. It is not used to the best of my knoweldge. 
 
 Imagine you woke up one day in a infinite world, larger than the known universe. Full of cubes. 
 
